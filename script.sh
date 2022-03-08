@@ -3,5 +3,5 @@
 while true
 do 
 	sudo rndc flush
-	sleep 60
+	sleep 10
 done
